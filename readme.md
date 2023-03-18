@@ -4,7 +4,7 @@
 
 🔨 Funcionalidades do projeto
 ---
-- Funcionalidade: Projeto feito com o intuito de aprimoramento do Node, Javascript e CSS, demonstrando como criar o "Netflix".
+- Funcionalidade: Projeto feito com o intuito de aprimoramento do Node, HTML, Javascript e CSS, demonstrando como criar o "Netflix".
 
 ✔️ Técnicas e tecnologias utilizadas
 ---
